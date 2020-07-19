@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(65, 130, 146);
+    margin: 0em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    box-shadow: #0a8269 2px 5px 5px;
+
+}
+
+hr {
+    border: 4px solid green;
+    border-radius: 1px;
+}
+
+.links {
+    color: black;
+}
+
+.work {
+    align-self: center;
+}
+
+.project {
+    align-self: center;
+}
+
+.contact {
+    align-self: center;
+}
